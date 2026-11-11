@@ -3,4 +3,3 @@ FROM nginx:latest
 COPY site/index.html /usr/share/nginx/html/index.html
 
 EXPOSE 80
-INVALID_STEP
